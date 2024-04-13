@@ -13,3 +13,5 @@ Prof. Amarnath Mitra: I am thankful for the guidance and support provided by Pro
 Kamau Munyori:I would like to acknowledge the work of Kamau Munyori, whose repository (https://github.com/KamauM1) served as a valuable reference for understanding and implementing this project.
 
 scikit-learn Documentation: I am grateful to the scikit-learn documentation, which provided comprehensive resources and examples that helped me implement various machine learning algorithms and techniques in this project.
+
+This repository belongs to Roll No. 045040 (Phalit Gupta) from PGDM, BDA-04
